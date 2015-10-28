@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var birth: UITextField!
     override func viewDidLoad() {
         super.viewDidLoad()
+        println("hahahahahaha")
         // Do any additional setup after loading the view, typically from a nib.
         
     }
